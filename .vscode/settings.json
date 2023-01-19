@@ -12,4 +12,7 @@
     "typescript",
     "vue"
   ]
+  "eslint.workingDirectories": [
+    {"mode": "auto"}
+],
 }
